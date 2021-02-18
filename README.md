@@ -9,7 +9,6 @@ This bot and web-app were created by a software developer Huge Ma, who works for
 ### What I found interesting about the article
 It is interesting to see how software development can be used for social good. Creating a bot that tracks vaccine availability will end up helping a lot of New York State residents. It made me think of other ways tech can be used for social good initiatives, like creating activist toolkit websites.
 
-=======
 It is also interesting to see the lack of technological advancements on the part of the government. Technology is needed in today's society to transfer information to the public. Government websites do not provide adequate information regarding vaccine availability and are ineffective.
 
 ### Forked comment: Kaylee
